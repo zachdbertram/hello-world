@@ -1,4 +1,3 @@
-# hello-world
-I can follow directions
-"My truck's where my money goes, I got buck blood on my sundey clothes..." - Hardy
-Texas and OU are leaving the Big12 for the BIG10
+# aboutMe
+Interested in learning blockchain development focused on smart contracts.
+
